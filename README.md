@@ -1,5 +1,13 @@
 # Pyroclast aggregate charting demo
 
+Load and chart aggregates from one or more services.
+
+![timeseries](https://user-images.githubusercontent.com/141130/31133744-529db37e-a82e-11e7-8f9f-299598be59a5.png)
+
+![categories](https://user-images.githubusercontent.com/141130/31133754-59717db6-a82e-11e7-87a0-522a01a7792b.png)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
