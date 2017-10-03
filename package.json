@@ -1,6 +1,6 @@
 {
-  "name": "aggregate-charting-demo",
-  "version": "0.1.0",
+  "name": "pyroclast-aggregate-charting-demo",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.2",
